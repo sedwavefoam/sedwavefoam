@@ -1,0 +1,7 @@
+In order to install sedwaveFoam, you should install waves2Foam first
+Then source the bashrc of waves2Foam
+
+ex> source /lustre/work/thsu/yaroo/OpenFOAM/waves2Foam/bin/bashrc
+
+If you have a problem saying something wrong in relaxation means your waves2Foam is incorrect or not updated in your system
+
