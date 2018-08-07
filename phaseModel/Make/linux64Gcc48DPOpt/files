@@ -1,0 +1,6 @@
+# 1 "files"
+# 1 "<command-line>"
+# 1 "files"
+phaseModel/phaseModel.C
+
+LIB = $(FOAM_USER_LIBBIN)/libphaseWaveModel
