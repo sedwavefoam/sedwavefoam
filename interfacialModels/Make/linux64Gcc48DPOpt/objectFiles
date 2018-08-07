@@ -1,0 +1,10 @@
+OBJECTS = \
+$(OBJECTS_DIR)/dragModel.o\
+$(OBJECTS_DIR)/newDragModel.o\
+$(OBJECTS_DIR)/Ergun.o\
+$(OBJECTS_DIR)/GidaspowErgunWenYu.o\
+$(OBJECTS_DIR)/GidaspowSchillerNaumann.o\
+$(OBJECTS_DIR)/SchillerNaumann.o\
+$(OBJECTS_DIR)/Gibilaro.o\
+$(OBJECTS_DIR)/WenYu.o\
+$(OBJECTS_DIR)/SyamlalOBrien.o

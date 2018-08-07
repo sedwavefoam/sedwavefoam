@@ -1,0 +1,10 @@
+DEPENDENCIES = \
+dragModels/dragModel/dragModel.dep\
+dragModels/dragModel/newDragModel.dep\
+dragModels/Ergun/Ergun.dep\
+dragModels/GidaspowErgunWenYu/GidaspowErgunWenYu.dep\
+dragModels/GidaspowSchillerNaumann/GidaspowSchillerNaumann.dep\
+dragModels/SchillerNaumann/SchillerNaumann.dep\
+dragModels/Gibilaro/Gibilaro.dep\
+dragModels/WenYu/WenYu.dep\
+dragModels/SyamlalOBrien/SyamlalOBrien.dep

@@ -1,0 +1,10 @@
+LOCAL_OBJECTS = \
+dragModel.o\
+newDragModel.o\
+Ergun.o\
+GidaspowErgunWenYu.o\
+GidaspowSchillerNaumann.o\
+SchillerNaumann.o\
+Gibilaro.o\
+WenYu.o\
+SyamlalOBrien.o
