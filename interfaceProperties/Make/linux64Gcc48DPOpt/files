@@ -1,0 +1,7 @@
+# 1 "files"
+# 1 "<command-line>"
+# 1 "files"
+interfaceProperties.C
+interfaceCompression/interfaceCompression.C
+
+LIB = $(FOAM_USER_LIBBIN)/libinterfacePropertiesWaveRANSSed

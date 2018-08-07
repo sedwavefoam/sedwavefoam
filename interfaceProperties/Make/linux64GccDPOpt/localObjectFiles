@@ -1,0 +1,3 @@
+LOCAL_OBJECTS = \
+interfaceProperties.o\
+interfaceCompression.o

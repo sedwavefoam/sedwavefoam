@@ -1,0 +1,2 @@
+include interfaceProperties.dep
+include interfaceCompression/interfaceCompression.dep
