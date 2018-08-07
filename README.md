@@ -10,6 +10,7 @@ SedWaveFoam solver for OpenFOAM
 * Install waves2Foam
 * git clone https://github.com/sedwavefoam/sedwavefoam sedwavefoam
 * cd sedwavefoam
+* Delete all dep files using (find . -name \*.dep -type f -delete)
 * source bashrc of OpenFOAM and waves2Foam
 * ./Allwclean
 * ./Allwmake
