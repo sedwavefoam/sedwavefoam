@@ -1,0 +1,2 @@
+SOURCE = \
+alphaContactAngle/alphaContactAngle/alphaContactAngleFvPatchScalarField.C
